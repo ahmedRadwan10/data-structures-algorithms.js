@@ -45,7 +45,6 @@ main .algorithms .algo-container a {
 
 main .algorithms .algo-container .algo {
     background-color: aliceblue;
-    width: 200px;
     padding: 20px;
     margin: 20px 20px 0 0;
     border-radius: 10px;
