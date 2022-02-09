@@ -24,6 +24,18 @@ body {
     font-size: 50px;
 }
 
-.container code {
-    
+
+@media screen and (max-width:670px) {
+    .container {
+        width: 100%;
+        background: none;
+    }
+    .container h1 {
+        font-size: 30px;
+        text-align: left;
+        margin-left: 20px;
+    }
+    .container code {
+        font-size: 10px;
+    }
 }
