@@ -1,3 +1,3 @@
 # Data Structures and Algorithms
-Some of the most common algorithms implemented and tested by javaScript.
+Some of the most common data structures and algorithms implemented and tested by javaScript.
 
