@@ -1,4 +1,6 @@
-function naiveSearch(long, short){
+
+
+function naiveSearch(long, short) {
     var count = 0;
     for(var i = 0; i < long.length; i++){
         for(var j = 0; j < short.length; j++){
@@ -9,4 +11,4 @@ function naiveSearch(long, short){
     return count;
 }
 
-naiveSearch("lorie loled", "lol")
+naiveSearch("lorie loled lol lollollollollol", "lol")

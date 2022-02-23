@@ -4,7 +4,3 @@ function sumRange(num){
 }
 
 sumRange(4)
-
-                  
-                                   
-                                
